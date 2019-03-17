@@ -1,0 +1,15 @@
+c:\users\praneeth-pc\documents\visual studio 2012\Projects\pro\pro\obj\Debug\pro.Form1.resources
+c:\users\praneeth-pc\documents\visual studio 2012\Projects\pro\pro\obj\Debug\pro.Resources.resources
+c:\users\praneeth-pc\documents\visual studio 2012\Projects\pro\pro\obj\Debug\pro.vbproj.GenerateResource.Cache
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\obj\Debug\pro.About_Me.resources
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\bin\Debug\Shool Bell System V.1.00.exe.config
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\bin\Debug\Shool Bell System V.1.00.exe.manifest
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\bin\Debug\Shool Bell System V.1.00.application
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\bin\Debug\Shool Bell System V.1.00.exe
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\bin\Debug\Shool Bell System V.1.00.pdb
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\bin\Debug\Shool Bell System V.1.00.xml
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\obj\Debug\Shool Bell System V.1.00.exe.manifest
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\obj\Debug\Shool Bell System V.1.00.application
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\obj\Debug\Shool Bell System V.1.00.exe
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\obj\Debug\Shool Bell System V.1.00.xml
+C:\Users\PRANEETH-PC\documents\visual studio 2012\Projects\pro\pro\obj\Debug\Shool Bell System V.1.00.pdb
